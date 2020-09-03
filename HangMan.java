@@ -98,7 +98,7 @@ public class HangMan {
             }
         }
         if (playAgain == -2) { // Informing user of lost.
-            System.out.println("Thanks for playing `(*>﹏<*)′");
+            System.out.println("Thanks for playing (*>__<*)");
         }
 
     }
