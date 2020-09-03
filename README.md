@@ -8,7 +8,8 @@ Recreation of Hangman in the command line
 - Download files
 - Go to command line
 - After directing the command line to the folder
-  - Enter "javac numberGuess.java" in the command line
-  - Enter "java numberGuess" in the command line
+  - Enter "javac HangMan.java" in the command line
+  - Enter "java HangMan" in the command line
 
 ## Visuals
+![What the command line would look like]()
